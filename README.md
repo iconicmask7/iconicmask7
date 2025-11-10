@@ -57,13 +57,10 @@ My strength is combining **high-quality UI/UX**, **backend engineering**, and **
 ## 📌 Pinned Projects
 
 ### 🔹 `ecommerce`
-Production-ready store with Flutter + Django REST, payments, secure auth.
 
 ### 🔹 `ecommercenew`
-Refactored MVVM + Riverpod architecture with cleaner modularization.
 
 ### 🔹 `expensetracker`
-Offline-first expense manager with charts and local storage.
 
 ### 🔹 `iconicmask7.github.io`
 My portfolio website with resume, SEO tags, and project showcase.
